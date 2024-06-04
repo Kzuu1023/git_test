@@ -2,5 +2,3 @@
 
 My first Github repo!
 Hello Odin-sama!
-31
-kevin
